@@ -1,9 +1,13 @@
-import AllProducts from "./components/AllProducts"
+// import AllProducts from "./components/AllProducts"
+import AddNewProduct from "./components/AddNewProduct"
+// import SpecificProduct from "./components/SpecificProduct"
 
 function App() {
   return (
     <div>
-      <AllProducts/>
+      {/* <AllProducts/> */}
+      {/* <SpecificProduct/> */}
+      <AddNewProduct/>
     </div>
   )
 }
